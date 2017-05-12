@@ -1,0 +1,29 @@
+{
+  "name": "@giantpeach/page-controller",
+  "version": "1.0.1",
+  "description": "",
+  "main": "page-controller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Giant-Peach-Design/page-controller.git"
+  },
+  "author": "Tom <tom@giantpeach.agency>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Giant-Peach-Design/page-controller/issues"
+  },
+  "homepage": "https://github.com/Giant-Peach-Design/page-controller#readme",
+  "devDependencies": {
+    "@fdaciuk/ajax": "^2.1.5",
+    "@giantpeach/extend-defaults": "^1.0.0",
+    "@giantpeach/transition-end": "^1.0.0"
+  },
+  "dependencies": {
+    "@fdaciuk/ajax": "^2.1.5",
+    "@giantpeach/extend-defaults": "^1.0.0",
+    "@giantpeach/transition-end": "^1.0.0"
+  }
+}
